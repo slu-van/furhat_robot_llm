@@ -22,10 +22,10 @@ Whisper and Qwen stay on the Mac. Furhat is not asked to recognize speech.
 ```bash
 python3 -m pip install furhat-remote-api mlx-whisper sounddevice numpy openai
 brew install ffmpeg
-
+```
 The package name is mlx-whisper. The import is mlx_whisper.
 
-Script
+## Script
 
 furhat_whisper.py on the Mac.
 
